@@ -2,6 +2,8 @@ import requests
 import matplotlib.pyplot as plt
 import datetime
 
+# Please note: this is really bad code.
+
 try: 
     apiUrl = "https://covidtracking.com/api/us/daily"
 
