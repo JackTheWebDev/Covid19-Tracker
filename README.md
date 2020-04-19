@@ -6,5 +6,6 @@ Make sure you have requests and matplotlib installed on your machine. The dates 
 
 
 ## Example image:
+This is what you will get when you run the program.
 
 ![](Covid19Tracker.PNG)
